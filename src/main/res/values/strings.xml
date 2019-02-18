@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MEP</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome">Welcome to Mep!</string>
+    <string name="canceled">Log in canceled</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_to_calendar">Add to calendar</string>
+    <string name="title">Title</string>
+    <string name="details">Details</string>
+    <string name="location">Location</string>
+    <string name="type_title_here">type title here</string>
+    <string name="yyyy_mm_dd">YYYY/MM/DD</string>
+    <string name="_22_59">22:59</string>
+    <string name="name">Name</string>
+    <string name="bio">Bio</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear Search</string>
+    <string name="accept_friend_request">Accept Friend Request</string>
+    <string name="todo" />
+    <string name="palss">You are friends already</string>
+</resources>
